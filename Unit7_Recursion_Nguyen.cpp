@@ -1,3 +1,15 @@
+/********************************************************************
+ *  Assignment: Unit 7
+ *  Title:      Recursion
+ *  Student:    Michael Nguyen
+ *  Teacher:    Tyson McMillan
+ *  Date:       05/04/2022
+ *
+ *  Description: This program is just practice program to demonstrate
+ *               the recursion algorithm.
+ *
+ *********************************************************************/
+
 #include<iostream>
 
 using namespace std;
